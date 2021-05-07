@@ -1,0 +1,5 @@
+{
+    "tokens": ["Kmd5iJEavW5By1fJKxCxN3ggkZTdJnIo", "kKHRnloF-0jmm4QWiZrhkKny4M1eJjAy"],
+    "proxy": "http://dev-proxy.oa.com:8080",
+    "cacheDir": "./cacheDir"
+}
