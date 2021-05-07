@@ -97,6 +97,7 @@
     "json-concat": "0.0.1",
     "less": "^3.10.2",
     "less-loader": "^5.0.0",
+    "miniprogram-ci": "^1.2.3",
     "node-sass": "^4.11.0",
     "post-compile-webpack-plugin": "^0.1.2",
     "postcss-comment": "^2.0.0",
